@@ -44,7 +44,7 @@ SPI.h (for RF module communication).
 Getting Started
 Alright, let’s get this bot rolling:
 
-Snag the Code:git clone https://github.com/yourusername/GestoBot.git
+Snag the Code:git clone https://github.com/BiswajeetPatro/GestoBot.git
 
 
 Set Up Arduino IDE: Download it, install it, love it.
